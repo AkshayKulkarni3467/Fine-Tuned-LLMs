@@ -1,1 +1,4 @@
 NER (BERT)/model/
+QnA (T5)/checkpoints/
+QnA (T5)/data/
+QnA (T5)/lightning_logs/
